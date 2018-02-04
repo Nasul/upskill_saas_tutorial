@@ -37,6 +37,10 @@ h1, h2, h3 {
   border:none;
 }
 
+.navbar-brand {
+  font-family:'Opens Sans', sans-serif;
+  font-weight: 800;
+}
 // DevMath brand name and About page link: COLOR, HOVER, OPACITY --- apostraphy "," allowed add About link page, also "&" ONLY with SCSS allows add hover configs. 
 // NOTE:  DRY!  (Don't repeat yourself ruel)
 // NOTE:Higher specification needed to be put first, like .navbar-default  
